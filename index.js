@@ -26,6 +26,4 @@ function sayHiToGrandma(string) {
       return 'I can\'t hear you!'
     }
   }
-=======
->>>>>>> e167cd2d6b0a81818adfc4e20fd539ece1b1d8e5
 }
